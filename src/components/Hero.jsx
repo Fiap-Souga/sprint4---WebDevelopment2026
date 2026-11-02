@@ -1,3 +1,5 @@
+import WorldClock from './WorldClock'
+
 const metrics = [
   ['Aplicativo', 'Organização de estudos de forma automática'],
   ['Digitalização', 'Análise de conteúdo e definição de prioridade'],
@@ -38,6 +40,7 @@ export default function Hero({ sessionCode }) {
             </div>
           ))}
         </div>
+        <WorldClock />
         <p className="mt-4.5 font-mono text-[0.72rem] text-dim">SESSION // {sessionCode}</p>
       </div>
     </section>

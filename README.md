@@ -4,8 +4,8 @@ Projeto de **Web Development — Sprint 4**: evolução da solução JoviSmartCa
 
 ## Links do projeto
 
-- **Deploy na Vercel:** [https://sprint4-front-fiap.vercel.app/](https://sprint4-front-fiap.vercel.app/)
-- **Repositório Git:** [https://github.com/GuilhermeNasciment0/Sprint4-Front](https://github.com/GuilhermeNasciment0/Sprint4-Front)
+- **Deploy na Vercel:** [https://sprint2-web-development2026.vercel.app/](https://sprint2-web-development2026.vercel.app/)
+- **Repositório Git:** [https://github.com/Fiap-Souga/sprint2---WebDevelopment2026](https://github.com/Fiap-Souga/sprint2---WebDevelopment2026)
 
 ## Funcionalidades e requisitos
 
@@ -61,8 +61,8 @@ npm --version
 Clone o repositório e acesse a pasta:
 
 ```bash
-git clone https://github.com/GuilhermeNasciment0/Sprint4-Front.git
-cd Sprint4-Front
+git clone https://github.com/Fiap-Souga/sprint2---WebDevelopment2026.git
+cd sprint2---WebDevelopment2026
 ```
 
 Instale as dependências listadas no arquivo de lock:

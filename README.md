@@ -4,7 +4,7 @@ Projeto de **Web Development — Sprint 4**: evolução da solução JoviSmartCa
 
 ## Links do projeto
 
-- **Deploy na Vercel:** [https://sprint2-web-development2026.vercel.app/](https://sprint4-web-development2026.vercel.app/)
+- **Deploy na Vercel:** [https://sprint4-web-development2026-brnm.vercel.app/](https://sprint4-web-development2026-brnm.vercel.app/)
 - **Repositório Git:** [https://github.com/Fiap-Souga/sprint4---WebDevelopment2026](https://github.com/Fiap-Souga/sprint4---WebDevelopment2026)
 
 ## Funcionalidades e requisitos

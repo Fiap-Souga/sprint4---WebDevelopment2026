@@ -22,7 +22,7 @@ Projeto de **Web Development — Sprint 4**: evolução da solução JoviSmartCa
 
 ## Tecnologias
 
-- React e JavaScript (JSX)
+- React e JavaScript 
 - Vite
 - Tailwind CSS v4 (`tailwindcss` e `@tailwindcss/vite`)
 - React Router (`react-router-dom`)
